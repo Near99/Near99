@@ -1,5 +1,5 @@
 - 👋 Trying to be a frontend developer but not enjoying styling shit..
-- 🌱 Currently learning JavaScript, React and Vue.
+- 🌱 Currently learning JavaScript, React, and Node.
 
 <!---
 Near99/Near99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
