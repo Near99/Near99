@@ -1,6 +1,6 @@
-- 👋 Trying to be a frontend developer but not enjoying styling shit..
-- 🌱 Currently learning JavaScript, React, and Node.
-- 🌱 Looking for jobs...
+- 👋 Self-taught software engineer.
+- 🌱 Landed a job after six months of study.
+- 🌱 Currently working in C.
 
 <!---
 Near99/Near99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
