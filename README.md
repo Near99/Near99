@@ -1,6 +1,6 @@
 - 👋 Self-taught software engineer.
 - 🌱 Landed a job after six months of study.
-- 🌱 Currently working in C.
+- 🌱 Currently working with TypeScript.
 
 <!---
 Near99/Near99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
