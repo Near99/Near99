@@ -2,7 +2,7 @@
 - :checkered_flag: Landed a job after six months of study.
 - :ok_man: Currently working on VSCode extension development.
 - :weight_lifting: Hitting hard on data structures and algorithms.
-- :swimmer: And I am OPEN to new opportunities anywhere on earth.
+- :swimmer: I am OPEN to new opportunities anywhere on earth.
 
 <!---
 Near99/Near99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
