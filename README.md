@@ -4,6 +4,7 @@
 - :weight_lifting: Hitting hard on data structures and algorithms.
 - :swimmer: I am OPEN to new opportunities anywhere on earth.
 - :runner: Run for FREEDOM!!
+- :battery: Battery Saving Mode day2!
 
 <!---
 Near99/Near99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
