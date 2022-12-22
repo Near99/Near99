@@ -1,7 +1,7 @@
 - :full_moon_with_face: Self-taught software engineer.
 - :checkered_flag: Landed a job after six months of study.
 - :bald_man: Learning Rust, switching from frontend to system programming.
-- :sassy_man: Done with VSCode extension development.
+- :man_facepalming: Done with VSCode extension development, finally.
 - :weight_lifting: Hitting hard on data structures and algorithms.
 - :swimmer: I am OPEN to new opportunities anywhere on earth.
 - :runner: Run for FREEDOM!!
