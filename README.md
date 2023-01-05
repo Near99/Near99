@@ -5,8 +5,6 @@
 - :weight_lifting: Hitting hard on data structures and algorithms.
 - :swimmer: I am OPEN to new opportunities anywhere on earth.
 - :runner: Run for FREEDOM!!
-- :battery: Alright Battery Saving Challenge has failed and I'll see you next month..
-- :doughnut: Happy new year!
 
 <!---
 Near99/Near99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
