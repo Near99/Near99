@@ -5,7 +5,7 @@
 - :weight_lifting: Hitting hard on data structures and algorithms.
 - :swimmer: I am OPEN to new opportunities anywhere on earth.
 - :runner: Run for FREEDOM!!
-- :beer: I am back!! I want a position based in Europe!! Please set me free from this fucking place!!!
+- :beer: I am back!! I want A JOB based in Europe!! Please set me free from this fucking place!!!
 
 <!---
 Near99/Near99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
